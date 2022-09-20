@@ -1,0 +1,33 @@
+.container-signup{
+    width: 650px;
+    height: 450px;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 360px;
+    margin-top: 70px;
+    background-color: #395B64;
+    border-radius: 7px;
+    box-shadow: 5px 5px 7px 8px rgb(9, 26, 32);
+    
+}
+.signup-text{
+ display:flex;
+ background-repeat: no-repeat;
+ border-radius: 7px;
+ height: 450px;
+
+}
+
+.signup{
+ color:#E7F6F2;
+ padding: 15px;
+ margin-top: 80px;
+
+}
+.btn{
+    color: antiquewhite;
+   margin-top: 20px;
+}
+input{
+    color:#E7F6F2;
+}

@@ -1,0 +1,64 @@
+body{
+    background-color: #112B3C;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: #A5C9CA;
+    
+/* background-image: url("https://www.transparenttextures.com/patterns/old-wall.png");*/
+
+}
+.heading{
+
+    font-family: 'Open Sans', sans-serif;
+    background: url(https://media.giphy.com/media/mELUzzpuns0uI/giphy.gif);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-transform: uppercase;
+    font-size: 200px;  
+    font-weight: 900; 
+    margin-top: 0;
+    margin-bottom: 0%;
+}
+.heading:focus{
+    outline: none;
+}
+p{
+    font-size: 30px;
+    margin-top: 2px;
+}
+
+.result{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    min-height: 100%;
+    max-height: auto;
+    width: 100%;
+    margin-top:1rem ;
+    align-items: center;
+   
+    
+  }
+  
+  img{
+    width: 320px;
+    height: 180px;
+    object-fit: cover;
+    padding: 0.75rem;
+    
+  }
+
+label {
+    background-color:#395B64;
+    color: white;
+    padding: 0.6rem;
+    font-family: sans-serif;
+    border-radius: 0.7rem;
+    cursor: pointer;
+    margin-bottom: 3em;
+  }
+  .plus{
+    padding:10px;
+  }
+ 

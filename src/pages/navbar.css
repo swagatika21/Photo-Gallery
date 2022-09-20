@@ -1,0 +1,15 @@
+.nav-link{
+    color: #A5C9CA;
+    font-size: 18px;
+}
+.nav-link:hover{
+    color: whitesmoke;
+}
+.navbar-brand{
+   margin-top: 19px;
+}
+.btn-logout{margin-left: 70em;
+margin-bottom: 16px;}
+.btn-logout:hover{
+    color: #A5C9CA;
+}
